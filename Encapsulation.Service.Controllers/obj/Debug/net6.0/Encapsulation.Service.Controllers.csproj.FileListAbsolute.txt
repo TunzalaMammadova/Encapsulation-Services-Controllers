@@ -1,0 +1,15 @@
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.csproj.AssemblyReference.cache
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.AssemblyInfoInputs.cache
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.AssemblyInfo.cs
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.csproj.CoreCompileInputs.cache
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/bin/Debug/net6.0/Encapsulation.Service.Controllers
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/bin/Debug/net6.0/Encapsulation.Service.Controllers.deps.json
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/bin/Debug/net6.0/Encapsulation.Service.Controllers.runtimeconfig.json
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/bin/Debug/net6.0/Encapsulation.Service.Controllers.dll
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/bin/Debug/net6.0/Encapsulation.Service.Controllers.pdb
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.dll
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/refint/Encapsulation.Service.Controllers.dll
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.pdb
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/Encapsulation.Service.Controllers.genruntimeconfig.cache
+/Users/tunzale/Projects/Encapsulation.Service.Controllers/Encapsulation.Service.Controllers/obj/Debug/net6.0/ref/Encapsulation.Service.Controllers.dll
